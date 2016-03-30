@@ -1,2 +1,1 @@
-# cjoier
-exams for cjoier
+There were emaminations for 7 cjoiers squad from assemble training.
